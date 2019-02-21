@@ -10,7 +10,7 @@ const INMUTABLE_CACHE   = 'ax_inmutable_v1';
 
 
 const APP_STATIC_SHEL = [
-    '/',
+    //'/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
